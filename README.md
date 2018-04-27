@@ -14,13 +14,17 @@ https://wiki.eclipse.org/JDT/Eclipse_Java_8_Support_For_Kepler
 
 # Book code and downloads
 
-* Download the Java code [here](https://resources.oreilly.com/examples/9780596007126/blob/master/examples/HeadFirstDesignPatterns_code102507.zip) (zip file). The source files are in the src directory and the class files are in the bin directory. 
+* Download the Java code [here](https://resources.oreilly.com/examples/9780596007126/blob/master/examples/HeadFirstDesignPatterns_code102507.zip) (zip file). 
+
+   The source files are in the src directory and the class files are in the bin directory. 
+
 * Download the MVC song here.
 * Download README.txt. This has all the command line run commands for each application, as well as helpful comments. 
 * Download the heatindex.txt file containing the heat index formula for the Weather Station in chapter 2.
 * Download the test.txt file for chapter 3 
-+
-If you are using ant to compile the java files, you can download the build.xml file. (Make sure you name this file "build.xml" to use it with ant.)
+
+   If you are using ant to compile the java files, you can download the build.xml file. (Make sure you name this file "build.xml" to use it with ant.)
+
 * Download the code examples in C# here (hosted and supported by Mark McFadden).
 * Download the code examples in C++ here (created and supported by Glenn Puchtel).
 
