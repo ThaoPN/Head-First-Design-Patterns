@@ -21,7 +21,7 @@ https://wiki.eclipse.org/JDT/Eclipse_Java_8_Support_For_Kepler
 * Download the [test.txt](https://resources.oreilly.com/examples/9780596007126/blob/master/examples/test.txt) file for chapter 3. 
 * If you are using ant to compile the java files, you can download the [build.xml](https://resources.oreilly.com/examples/9780596007126/blob/master/examples/build.txt) file. (Make sure you name this file "build.xml" to use it with ant.)
 * Download the code examples in C# [here](https://resources.oreilly.com/examples/9780596007126/blob/master/examples/HeadFirstDesignPatternsInCSharp.zip) (hosted and supported by [Mark McFadden](http://www.msquaredweb.com/DesignPatterns)).
-* Download the code examples in C++ here (created and supported by Glenn Puchtel).
+* Download the code examples in C++ [here](http://sourceforge.net/projects/hfdp-cpp) (created and supported by Glenn Puchtel).
 
 # Disclaimer
 
