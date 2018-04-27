@@ -12,7 +12,19 @@ Download the code and compile and run from the command line, or load the code in
 
 https://wiki.eclipse.org/JDT/Eclipse_Java_8_Support_For_Kepler
 
+# Book code and downloads
 
+Download the Java code here (zip file).
+The source files are in the src directory and the class files are in the bin directory. 
+Download the MVC song here.
+Download README.txt. This has all the command line run commands for each application, as well as helpful comments. 
+Download the heatindex.txt file containing the heat index formula for the Weather Station in chapter 2.
+Download the test.txt file for chapter 3 
+If you are using ant to compile the java files, you can download the build.xml file. (Make sure you name this file "build.xml" to use it with ant.)
+Download the code examples in C# here (hosted and supported by Mark McFadden).
+Download the code examples in C++ here (created and supported by Glenn Puchtel).
+
+# Disclaimer
 
 The following applies to example files from material published by O’Reilly Media, Inc. Content from other publishers may include different rules of usage. Please refer to any additional usage rights explained in the actual example files or refer to the publisher’s website.
 	  
