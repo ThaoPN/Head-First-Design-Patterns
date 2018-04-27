@@ -1,6 +1,6 @@
 ## Example files for the title:  
 	  
-# Head First Design Patterns, by Bert Bates
+# Head First Design Patterns
 	  
 [![Head First Design Patterns, by Bert Bates](http://akamaicovers.oreilly.com/images/9780596007126/cat.gif)](https://www.safaribooksonline.com/library/view/title/0596007124//)
 	  
